@@ -35,13 +35,13 @@
     "express-validator": "^7.2.0",
     "helmet": "^8.0.0",
     "jsonwebtoken": "^9.0.2",
-    "mjml": "^4.15.3",
+    "mjml": "^5.4.0",
     "mongo-sanitize": "^1.1.0",
     "mongoose": "^8.15.2",
     "mustache": "^4.2.0",
-    "nodemailer": "^7.0.4",
+    "nodemailer": "^9.0.3",
     "sanitize-html": "^2.17.0",
-    "sharp": "^0.33.5"
+    "sharp": "^0.35.3"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
