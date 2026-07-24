@@ -23,7 +23,7 @@ RUN npm install --production=false --legacy-peer-deps
 COPY --link . .
 
 # Remove development dependencies
-RUN npm prune --production
+RUN npm prune --production --legacy-peer-deps
 
 # Final stage for app image
 FROM base
